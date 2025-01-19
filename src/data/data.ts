@@ -3,7 +3,7 @@ export const myProjects = [
       name: "AI Learn", 
       description: "An AI-powered tool for interactive learning with quizzes.", 
       users: "10 users",
-      link: "" 
+      link: "https://ai-learn-kush.vercel.app" 
   },
   { 
       name: "Bentolio", 
@@ -29,7 +29,7 @@ export const workExperience = [
         company: "CodeAlpha",
         role: "Frontend Developer",
         duration: "Sep 2024 - Oct 2024 · 2 mos",
-        work: "Developed a responsive portfolio website, increasing user engagement by 40%. Designed a modular codebase and led team sprints. • Created an interactive image gallery, boosting user satisfaction by 30%."
+        work: "Developed a responsive portfolio website, increasing user engagement by 20%. Designed a modular codebase and led team sprints. • Created an interactive image gallery, boosting user satisfaction by 30%."
     },
     {
         company: "CodeClause",
@@ -40,5 +40,20 @@ export const workExperience = [
 ];
 
 export const skills = [
-    "JavaScript", "TypeScript", "React", "Next.js", "Node.js", "Express", "MongoDB", "HTML", "CSS", "Tailwind CSS", "Git", "RESTful APIs"
-  ];
+    "JavaScript", 
+    "TypeScript", 
+    "React", 
+    "Next.js", 
+    "Redux", 
+    "Node.js", 
+    "Express", 
+    "MongoDB", 
+    "Prisma", 
+    "Framer Motion",
+    "HTML", 
+    "CSS", 
+    "Tailwind CSS", 
+    "Git", 
+    "RESTful APIs", 
+    "Postman"
+  ];  

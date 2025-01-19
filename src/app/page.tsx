@@ -77,7 +77,7 @@ export default function Home() {
             </p>
             <p className="flex gap-2">
               <span className="text-gray-500">•</span>
-              <span>Let&apos;s collaborate on exciting projects!</span>
+              <span>Feel free to reach out if you&apos;re looking to collaborate or discuss innovative ideas.</span>
             </p>
           </div>
         </section>
@@ -120,7 +120,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Learn more
+              See all my work on GitHub
             </Link>
           </div>
         </section>
