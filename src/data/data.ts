@@ -1,18 +1,18 @@
 export const myProjects = [
     {
         name: "AI Learn",
-        description: "An AI-powered tool for interactive learning with quizzes. Actively improving and adding new features.",
+        description: "AI tool for interactive learning with quizzes, still evolving.",
         users: "8 users",
         link: "https://ai-learn-kush.vercel.app"
     },
     {
         name: "Bentolio",
-        description: "A responsive portfolio website in a creative Bento grid layout.",
+        description: "Responsive portfolio in a Bento grid layout.",
         link: "https://bentolio-design.vercel.app"
     },
     {
         name: "Vision Forge",
-        description: "An AI platform to generate stunning images from prompts.",
+        description: "AI platform for generating images from prompts.",
         users: "3 users",
         link: "https://visionforge.vercel.app"
     },

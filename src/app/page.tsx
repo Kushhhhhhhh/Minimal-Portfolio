@@ -80,7 +80,7 @@ export default function Home() {
             {myProjects.map((project, index) => (
               <Card
                 key={index}
-                className="flex justify-between items-baseline p-4 bg-[#1a1a1a] border-gray-800 hover:border-gray-700 transition-colors"
+                className="flex justify-between items-baseline p-4 gap-4 bg-[#1a1a1a] border-gray-800 hover:border-gray-700 transition-colors"
               >
                 <div className="space-x-2">
                   <span className="text-gray-500">{index + 1}.</span>
