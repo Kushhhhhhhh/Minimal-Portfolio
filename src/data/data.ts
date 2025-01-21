@@ -22,7 +22,7 @@ export const workExperience = [
     {
         company: "VidyInternaHub",
         role: "Full-Stack Developer",
-        duration: "Oct 2024 - Jan 2024 · 4 mos",
+        duration: "Oct 2024 - Jan 2025 · 4 mos",
         work: "Led frontend and backend teams. Developed microservices and monolithic APIs, tested with Postman, and wrote documentation. • Built clean, user-friendly UIs and gained strong proficiency in Git and GitHub."
     },
     {
