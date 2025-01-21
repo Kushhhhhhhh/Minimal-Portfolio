@@ -59,17 +59,7 @@ export default function Home() {
             </p>
             <p className="flex gap-2">
               <span className="text-gray-500">•</span>
-              <span>
-                Experienced in creating real-world applications that solve problems.{" "}
-                <Link
-                  href="https://linkedin.com/in/kushsharma738"
-                  className="text-blue-400 underline underline-offset-4 hover:text-blue-300 transition-colors"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Learn more
-                </Link>
-              </span>
+              <span>Final-year BCA student at MDU, graduating in 2025.</span>
             </p>
             <p className="flex gap-2">
               <span className="text-gray-500">•</span>
@@ -105,8 +95,8 @@ export default function Home() {
                   <span className="text-gray-400 text-sm">{" : "}{project.description}</span>
                 </div>
                 {project.users && (
-                  <div className="flex items-center gap-2 text-sm">
-                    <span className="text-gray-400">{project.users}</span>
+                  <div className="flex items-center gap-2">
+                    <span className="text-gray-400 text-sm">{project.users}</span>
                     <span className="w-2 h-2 rounded-full bg-emerald-500"></span>
                   </div>
                 )}

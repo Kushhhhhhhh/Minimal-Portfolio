@@ -1,21 +1,21 @@
 export const myProjects = [
-  { 
-      name: "AI Learn", 
-      description: "An AI-powered tool for interactive learning with quizzes.", 
-      users: "10 users",
-      link: "https://ai-learn-kush.vercel.app" 
-  },
-  { 
-      name: "Bentolio", 
-      description: "A responsive portfolio website in a creative Bento grid layout." ,
-      link: "https://bentolio-design.vercel.app"
-  },
-  { 
-      name: "Vision Forge", 
-      description: "An AI platform to generate stunning images from prompts.", 
-      users: "3 users",
-      link: "https://visionforge.vercel.app"
-  },
+    {
+        name: "AI Learn",
+        description: "An AI-powered tool for interactive learning with quizzes. Actively improving and adding new features.",
+        users: "8 users",
+        link: "https://ai-learn-kush.vercel.app"
+    },
+    {
+        name: "Bentolio",
+        description: "A responsive portfolio website in a creative Bento grid layout.",
+        link: "https://bentolio-design.vercel.app"
+    },
+    {
+        name: "Vision Forge",
+        description: "An AI platform to generate stunning images from prompts.",
+        users: "3 users",
+        link: "https://visionforge.vercel.app"
+    },
 ];
 
 export const workExperience = [
@@ -40,20 +40,20 @@ export const workExperience = [
 ];
 
 export const skills = [
-    "JavaScript", 
-    "TypeScript", 
-    "React", 
-    "Next.js", 
-    "Redux", 
-    "Node.js", 
-    "Express", 
-    "MongoDB", 
-    "Prisma", 
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Redux",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "Prisma",
     "Framer Motion",
-    "HTML", 
-    "CSS", 
-    "Tailwind CSS", 
-    "Git", 
-    "RESTful APIs", 
+    "HTML",
+    "CSS",
+    "Tailwind CSS",
+    "Git",
+    "RESTful APIs",
     "Postman"
-  ];  
+];  
