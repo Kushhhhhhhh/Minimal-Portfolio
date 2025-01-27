@@ -1,5 +1,11 @@
 export const myProjects = [
     {
+        name: "Vision Forge",
+        description: "AI platform for generating images from prompts.",
+        users: "6 users",
+        link: "https://visionforgev2.vercel.app"
+    },
+    {
         name: "AI Learn",
         description: "AI tool for interactive learning with quizzes, still evolving.",
         users: "5 users",
@@ -9,12 +15,6 @@ export const myProjects = [
         name: "Bentolio",
         description: "Responsive portfolio in a Bento grid layout.",
         link: "https://bentolio-design.vercel.app"
-    },
-    {
-        name: "Vision Forge",
-        description: "AI platform for generating images from prompts.",
-        users: "6 users",
-        link: "https://visionforgev2.vercel.app"
     },
 ];
 
