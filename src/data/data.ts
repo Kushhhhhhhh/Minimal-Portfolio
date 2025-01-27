@@ -9,7 +9,7 @@ export const myProjects = [
         name: "AI Learn",
         description: "AI tool for interactive learning with quizzes, still evolving.",
         users: "5 users",
-        link: "https://ai-learn-kush.vercel.app"
+        link: "https://beta-ai-learn.vercel.app"
     },
     {
         name: "Bentolio",
