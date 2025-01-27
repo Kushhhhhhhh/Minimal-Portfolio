@@ -2,7 +2,7 @@ export const myProjects = [
     {
         name: "AI Learn",
         description: "AI tool for interactive learning with quizzes, still evolving.",
-        users: "8 users",
+        users: "5 users",
         link: "https://ai-learn-kush.vercel.app"
     },
     {
@@ -13,8 +13,8 @@ export const myProjects = [
     {
         name: "Vision Forge",
         description: "AI platform for generating images from prompts.",
-        users: "3 users",
-        link: "https://visionforge.vercel.app"
+        users: "6 users",
+        link: "https://visionforgev2.vercel.app"
     },
 ];
 
