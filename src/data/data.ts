@@ -23,19 +23,19 @@ export const workExperience = [
         company: "VidyInternaHub",
         role: "Full-Stack Developer",
         duration: "Oct 2024 - Jan 2025 · 4 mos",
-        work: "Led frontend and backend teams. Developed microservices and monolithic APIs, tested with Postman, and wrote documentation. • Built clean, user-friendly UIs and gained strong proficiency in Git and GitHub."
+        work: "Led frontend and backend teams to build scalable applications.• Designed and developed both microservices and monolithic APIs.• Validated endpoints using Postman and maintained detailed documentation.• Built clean, user-friendly UIs to enhance usability.• Gained strong proficiency in Git and GitHub for version control and collaboration."
     },
     {
         company: "CodeAlpha",
         role: "Frontend Developer",
         duration: "Sep 2024 - Oct 2024 · 2 mos",
-        work: "Developed a responsive portfolio website, increasing user engagement by 20%. Designed a modular codebase and led team sprints. • Created an interactive image gallery, boosting user satisfaction by 30%."
+        work: "Developed a responsive portfolio website to improve user engagement.• Designed a modular and maintainable codebase.• Contributed to an interactive image gallery to enhance user experience."
     },
     {
         company: "CodeClause",
         role: "Web Developer",
         duration: "Mar 2024 - Apr 2024 · 2 mos",
-        work: "Improved web performance by reducing page load times to under 1 second. Optimized React lifecycle methods and state management, cutting load times by 50%. • Implemented lazy loading, reducing downtime by 40%."
+        work: "Optimized web performance by reducing page load times.• Improved React lifecycle methods and state management for a smoother user experience.• Implemented lazy loading techniques to enhance efficiency."
     }
 ];
 
@@ -46,14 +46,14 @@ export const skills = [
     "Next.js",
     "Redux",
     "Node.js",
-    "Express",
+    "Express.js",
     "MongoDB",
+    "Firebase",
     "Prisma",
     "Framer Motion",
-    "HTML",
-    "CSS",
     "Tailwind CSS",
     "Git",
+    "Github",
     "RESTful APIs",
     "Postman"
 ];  

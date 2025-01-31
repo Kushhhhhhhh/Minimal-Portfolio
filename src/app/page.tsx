@@ -10,6 +10,7 @@ export default function Home() {
     <main className="min-h-screen bg-[#111111] text-gray-300 p-6 md:p-12 font-mono antialiased">
       <div className="max-w-3xl mx-auto space-y-16">
         <header className="flex flex-col md:flex-row md:justify-between md:items-center gap-6">
+
           <h1 className="text-3xl font-semibold text-white tracking-tight">
             Hi, I&apos;m Kush Sharma
           </h1>
@@ -55,7 +56,7 @@ export default function Home() {
           <div className="space-y-2 text-gray-300 leading-relaxed">
             <p className="flex gap-2">
               <span className="text-gray-500">•</span>
-              <span>I&apos;m a Full-stack Developer from India, passionate about building impactful web applications.</span>
+              <span>Full-stack Developer from India, passionate about web applications.</span>
             </p>
             <p className="flex gap-2">
               <span className="text-gray-500">•</span>
@@ -63,11 +64,11 @@ export default function Home() {
             </p>
             <p className="flex gap-2">
               <span className="text-gray-500">•</span>
-              <span>I love connecting with the tech community and growing together.</span>
+              <span>Interested in tech, psychology, and photography.</span>
             </p>
             <p className="flex gap-2">
               <span className="text-gray-500">•</span>
-              <span>Feel free to reach out if you&apos;re looking to collaborate or discuss innovative ideas.</span>
+              <span>Open to collaborations and discussions on innovative ideas.</span>
             </p>
           </div>
         </section>
