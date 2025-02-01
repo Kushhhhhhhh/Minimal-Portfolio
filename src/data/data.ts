@@ -2,7 +2,7 @@ export const myProjects = [
     {
         name: "Vision Forge",
         description: "AI platform for generating images from prompts.",
-        users: "6 users",
+        users: "11 users",
         link: "https://visionforgev2.vercel.app"
     },
     {
